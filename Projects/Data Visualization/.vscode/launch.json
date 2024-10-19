@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/91971/Downloads/Python Codes/Python Codes/Projects/Data Visualization",
-      "program": "c:/Users/91971/Downloads/Python Codes/Python Codes/Projects/Data Visualization/build/Debug/outDebug",
+      "cwd": "c:/Users/91971/Videos/Python Codes/Projects/Data Visualization",
+      "program": "c:/Users/91971/Videos/Python Codes/Projects/Data Visualization/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
